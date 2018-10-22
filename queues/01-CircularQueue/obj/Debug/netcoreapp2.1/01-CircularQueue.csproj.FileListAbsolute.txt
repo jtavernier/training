@@ -1,0 +1,11 @@
+C:\Sources\Local\Training\training\01-CircularQueue\bin\Debug\netcoreapp2.1\01-CircularQueue.deps.json
+C:\Sources\Local\Training\training\01-CircularQueue\bin\Debug\netcoreapp2.1\01-CircularQueue.runtimeconfig.json
+C:\Sources\Local\Training\training\01-CircularQueue\bin\Debug\netcoreapp2.1\01-CircularQueue.runtimeconfig.dev.json
+C:\Sources\Local\Training\training\01-CircularQueue\bin\Debug\netcoreapp2.1\01-CircularQueue.dll
+C:\Sources\Local\Training\training\01-CircularQueue\bin\Debug\netcoreapp2.1\01-CircularQueue.pdb
+C:\Sources\Local\Training\training\01-CircularQueue\obj\Debug\netcoreapp2.1\01-CircularQueue.csprojAssemblyReference.cache
+C:\Sources\Local\Training\training\01-CircularQueue\obj\Debug\netcoreapp2.1\01-CircularQueue.csproj.CoreCompileInputs.cache
+C:\Sources\Local\Training\training\01-CircularQueue\obj\Debug\netcoreapp2.1\01-CircularQueue.AssemblyInfoInputs.cache
+C:\Sources\Local\Training\training\01-CircularQueue\obj\Debug\netcoreapp2.1\01-CircularQueue.AssemblyInfo.cs
+C:\Sources\Local\Training\training\01-CircularQueue\obj\Debug\netcoreapp2.1\01-CircularQueue.dll
+C:\Sources\Local\Training\training\01-CircularQueue\obj\Debug\netcoreapp2.1\01-CircularQueue.pdb
